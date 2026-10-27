@@ -1,0 +1,14 @@
+Copyright (c) 2026 Pelagex. All rights reserved.
+
+This website and its code (the Pelagex platform, including Shark Explorer and any other
+species sections) may be viewed in a web browser, but may not be copied, modified,
+redistributed or used to build another service without written permission.
+
+This licence covers the platform only. The tag data belongs to the Perth Game Fishing Club
+Tag and Release Shark Initiative. Ocean, wind, seafloor and basemap data belong to their
+providers and are used under their own terms (see "Data sources" on the site).
+
+The Pelagex platform is provided to the Perth Game Fishing Club Tag and Release Shark Initiative
+under a signed Platform and Data Agreement.
+
+Contact: pelagex.tracking@gmail.com
